@@ -1,0 +1,16 @@
+
+.elemento{
+    background-color:rgb(236, 212, 175);
+    border-radius: 10px;
+    font-size: 2rem;
+    max-width: 75%;
+    min-width: 25%;
+    max-height: 75%;
+    min-height: 25%;
+    margin:  0 auto;
+    padding: 0px;
+
+}
+/* .elemento> div {
+    height:fit-content;
+} */
